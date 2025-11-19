@@ -3,15 +3,15 @@
   <img src="https://github.com/SirDev12.png" width="170" style="border-radius:50%; border: 6px solid #00ff9d; box-shadow: 0 0 25px #00ff9d88;" alt="SirDev12"/>
 
   <h1 style="color:#fff; margin:18px 0 6px; font-size:40px;">SirDev12</h1>
-  <p style="color:#00ff9d; font-size:19px; font-weight:700; margin:0;">Backend Engineer • Multi-Language & Automation • Indonesia</p>
+  <p style="color:#00ff9d; font-size:19px; font-weight:700; margin:0;">Backend Engineer • Multi-Language & API Specialist • Indonesia</p>
 
   <br/>
 
-  <!-- BACKEND SKILLS – SEMUA LANGUAGE KELIATAN DI DEPAN! -->
+  <!-- BACKEND SKILLS – 20 UTAMA, SEMUA KELIATAN -->
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-            srcset="https://skillicons.dev/icons?i=go,nodejs,java,rust,python,php,express,nestjs,fastapi,flask,spring,laravel,django,docker,kubernetes,redis,postgres,mongodb,mysql,rabbitmq,kafka,nginx,aws,gcp,azure,cloudflare,git,github,gitlab,postman,prisma,linux,bash,terraform,prometheus,grafana,jenkins&theme=dark&perline=12"/>
-    <img src="https://skillicons.dev/icons?i=go,nodejs,java,rust,python,php,express,nestjs,fastapi,flask,spring,laravel,django,docker,kubernetes,redis,postgres,mongodb,mysql,rabbitmq,kafka,nginx,aws,gcp,azure,cloudflare,git,github,gitlab,postman,prisma,linux,bash,terraform,prometheus,grafana,jenkins&perline=12"/>
+            srcset="https://skillicons.dev/icons?i=go,nodejs,java,rust,python,php,express,fastapi,flask,spring,docker,kubernetes,redis,postgres,mongodb,mysql,nginx,aws,gcp,git&theme=dark&perline=10"/>
+    <img src="https://skillicons.dev/icons?i=go,nodejs,java,rust,python,php,express,fastapi,flask,spring,docker,kubernetes,redis,postgres,mongodb,mysql,nginx,aws,gcp,git&perline=10"/>
   </picture>
 
   <br/><br/>
@@ -34,10 +34,10 @@
   <br/><br/>
 
   <a href="https://github.com/SirDev12/Bot-Leveling-Discord-Simple">
-    <img src="https://img.shields.io/badge/Discord Leveling Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=Node.js"/>
+    <img src="https://img.shields.io/badge/Discord Leveling Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=Node.js%20Backend"/>
   </a>
   <a href="https://github.com/SirDev12/gpx-route-generator">
-    <img src="https://img.shields.io/badge/GPX Route Generator-FF6B6B?style=for-the-badge&logo=python&logoColor=white&label=Flask"/>
+    <img src="https://img.shields.io/badge/GPX Route Generator-FF6B6B?style=for-the-badge&logo=python&logoColor=white&label=Flask%20API"/>
   </a>
 
   <br/><br/>
