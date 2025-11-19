@@ -2,7 +2,7 @@
 
   <img src="https://github.com/SirDev12.png" width="170" style="border-radius:50%; border: 6px solid #f7df1e; box-shadow: 0 0 25px #f7df1e88;" alt="SirDev12"/>
   <h1 style="color:#f7df1e; margin:18px 0 6px; font-size:40px;">SirDev12</h1>
-  <p style="color:#fff; font-size:19px; font-weight:700;">Backend Engineer • Discord Bot & Automation Specialist • Indonesia</p>
+  <p style="color:#fff; font-size:19px; font-weight:700;">JS Backend Engineer · Discord Bot Specialist · Indonesia</p>
 
   <br/>
 
